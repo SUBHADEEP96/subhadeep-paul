@@ -20,7 +20,7 @@ function App() {
 	
 	<Route path="/hireme" component={Hireme}/>
 	
-	<Route component={PageNotFound}/>
+	
 	</Switch>
 	
 	</div>
